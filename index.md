@@ -1,7 +1,9 @@
 # one
 ## two
+### three
 ###### six
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Yocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $ git init
